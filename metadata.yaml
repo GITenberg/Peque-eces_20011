@@ -1,0 +1,31 @@
+_repo: Peque-eces_20011
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Coloma, Luis
+    aliases:
+    - Roldan, Luis Coloma
+    - Roldán, Luis Coloma
+    birthdate: 1851
+    deathdate: 1915
+    gutenberg_agent_id: '9025'
+    url: http://www.gutenberg.org/2009/agents/9025
+description: ''
+gutenberg_issued: '2006-12-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20011'
+  lccn: '31034855'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Spain -- Social conditions -- 1886-1939 -- Fiction'
+- !lcsh 'Aristocracy (Social class) -- Spain -- 19th century -- Fiction'
+title: Pequeñeces
+url: http://www.gutenberg.org/ebooks/20011
